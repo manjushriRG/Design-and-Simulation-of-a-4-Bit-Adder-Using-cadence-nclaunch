@@ -102,7 +102,9 @@ endmodule
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+
+![4-bit adder verilog](https://github.com/user-attachments/assets/a3e94fbe-9049-4701-b57f-152f41f69882)
+
 
 
 
@@ -110,5 +112,3 @@ endmodule
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 Simulated the design using Cadence nclaunch and verified the output.
 Observed correct addition functionality for all test cases.
-
-
